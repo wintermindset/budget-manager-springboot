@@ -1,0 +1,42 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle (если вдруг)
+build/
+.gradle/
+
+# Spring Boot
+*.log
+spring.log
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Env
+.env
+application-*.yml
+application-*.yaml
+application-*.properties
+
+# Test reports
+surefire-reports/
+failsafe-reports/
+
+# Others
+out/
+logs/
